@@ -1,0 +1,35 @@
+table{
+    background-color: rgb(12, 6, 6);
+    size: 500%;
+    font-size: larger;
+
+
+}
+h1{
+    color:orange;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:100px;
+    text-align: center;
+    text-shadow:700vmax;
+    font-feature-settings: "aalt";
+}
+h2{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+pre{
+    font-size:xx-large;
+}
+body{
+    background-color: rgb(14, 8, 8);
+}
+td1{
+    color:rgb(87, 49, 49);
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(207, 123, 40);
+    background-position: 70%;
+}
+table1{
+  padding: 20px;
+}
