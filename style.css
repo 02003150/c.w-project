@@ -2,11 +2,12 @@ table{
     background-color: rgb(12, 6, 6);
     size: 500%;
     font-size: larger;
+    margin-left: 5%;
 
 
 }
 h1{
-    color:orange;
+    color:rgb(159, 14, 14);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:100px;
     text-align: center;
@@ -21,15 +22,56 @@ pre{
     font-size:xx-large;
 }
 body{
-    background-color: rgb(14, 8, 8);
+    background-color:rgb(224, 173, 77);
 }
 td1{
     color:rgb(87, 49, 49);
     font-size: x-large;
     font-family: 'Courier New', Courier, monospace;
     background-color: rgb(207, 123, 40);
-    background-position: 70%;
+   
+   
 }
-table1{
-  padding: 20px;
+.container{
+    padding-top: 10%;
+    border: 60px;
+    border-color: aliceblue;
+}
+.navbar bg-body-tertiary{
+    color: blueviolet;
+    background-color: black;
+}
+img{
+  
+
+}
+.navbar navbar-expand-lg bg-body-tertiary{
+    background-color: black;
+}
+div1{
+    size: 0cap;
+    margin:10%;
+    border: 20cap;
+    border: chartreuse;
+}
+table2{
+    size:100cap;
+    background-color: aliceblue;
+}
+
+.btn-outline{
+    background-color: orangered;
+    color: blanchedalmond;
+    margin-left: 4%;
+    margin-top: -6%;
+    border: 70cap;
+  
+   size: 20cap;
+}
+
+.btn-outline:hover{
+    background-color: rgb(222, 97, 8);
+}
+.btn-outline:active{
+    background-color:rgb(169, 167, 162);
 }
